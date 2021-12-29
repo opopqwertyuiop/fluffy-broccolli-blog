@@ -1,0 +1,1 @@
+python F:\projects\fluffy-broccoli-blog-backend\fluffy_broccoli_blog\manage.py runserver
